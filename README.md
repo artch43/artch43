@@ -1,7 +1,8 @@
 # Hi 👋, I'm Arthur Maffeo
 
 🚀 **Undergraduate Student Computer Science**
-#🇧🇷 Brazil
+
+🇧🇷 Brazil
 
 I’m deeply interested in **Artificial Inteligence**
 
@@ -11,7 +12,7 @@ I’m deeply interested in **Artificial Inteligence**
   <a href="https://github.com/artch43">
     <img src="https://img.shields.io/badge/GitHub-artch43-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/arthurmaffeo">
+  <a href="https://instagram.com/arthur.maffeo">
     <img src="https://img.shields.io/badge/Instagram-@arthurmaffeo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@artch43">
@@ -51,19 +52,3 @@ I’m deeply interested in **Artificial Inteligence**
 
 ⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
-
-
-<!--
-**artch43/artch43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
